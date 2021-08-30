@@ -1,4 +1,4 @@
-## 👋 Hello There! I'm Steffano!
+# 👋 Hello There! I'm Steffano!
 <img src="./img/hello-there.gif" min-width="400px" max-width="400px" width="400px" align="right" alt="Hello There gif"> 
 
 Here you can find many projects that i work on, there's also a lot of informative stuff about my college and other projects from
