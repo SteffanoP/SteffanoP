@@ -3,8 +3,6 @@
 
 Here you can find many projects that i work on, there's also a lot of informative stuff about my college and other projects from
 
-Here are some ideas to get you started:
-
 🔭 I’m currently working to build a community at [UFRPE-DEVS](https://github.com/ufrpe-devs/comunidade)!
 
 🌱 I’m currently learning about **Machine Learning** and **Data Mining**! and When free looking to learn about **GitHub Actions**.
