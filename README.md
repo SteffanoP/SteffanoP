@@ -9,7 +9,7 @@ Here you can find many projects that i work on, there's also a lot of informativ
 
 👯 I’m looking to collaborate on open-source projects!
 
-💬 Ask me about `{Git, Java, C, Arduino}`
+💬 Ask me about `{Git, Java, C, Arduino, Python}`
 
 📫 How to reach me: Send me an email or if you prefer send me a note at [in/SteffanoP](https://www.linkedin.com/in/steffanop/)
 
