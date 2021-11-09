@@ -5,7 +5,7 @@ Here you can find many projects that i work on, there's also a lot of informativ
 
 🔭 I’m currently working to build a community at [UFRPE-DEVS](https://github.com/ufrpe-devs/comunidade)!
 
-🌱 I’m currently learning about **Machine Learning** and **Data Mining**! and When free looking to learn about **GitHub Actions**.
+🌱 And also learning about **Machine Learning** and **Data Mining**! and When free looking to learn about **GitHub Actions**.
 
 👯 I’m looking to collaborate on open-source projects!
 
@@ -13,7 +13,7 @@ Here you can find many projects that i work on, there's also a lot of informativ
 
 📫 How to reach me: Send me an email or if you prefer send me a note at [in/SteffanoP](https://www.linkedin.com/in/steffanop/)
 
-😄 Pronouns: He/him/ele/dele
+😄 Pronouns: He/him//ele/dele
 
 ⚡ Fun fact: I'm a huge fan of Star Wars and I love Obi-Wan Kenobi! Expectations high for his TV Series.
 
